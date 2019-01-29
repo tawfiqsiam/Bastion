@@ -1,11 +1,11 @@
 ---
 shardCount: 1
 prefix:
-  - "#!"
+  - "x!"
 status: online
 game:
   type: Playing
-  name:
+  name: ProXima 
     - "with Ganymede"
     - "with wrenches"
   url: https://twitch.tv/k3rn31p4nic
